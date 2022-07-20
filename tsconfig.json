@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "checkJs": false,
+    "strict": true,
+    "target": "ES2019",
+    "module": "commonJS",
+    "moduleResolution": "node",
+  },
+  "include": ["node_modules/mongodb/**/*"]
+}
